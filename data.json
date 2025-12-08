@@ -1,6 +1,6 @@
 {
   "baseDistance": 40,
-  "perKmRate": 480,
+  "perKmRate": 90,
   "tariffs": {
     "5-open": 12000,
     "5-closed": 13000,
@@ -11,3 +11,4 @@
   }
 
 }
+
