@@ -10,6 +10,8 @@
     "10-open": 17000,
     "10-closed": 18000,
     "20-open": 21000,
-    "20-closed": 23000
+    "20-closed": 23000,
+    "manipulator5-fixed": 20000,
+    "manipulator10-fixed": 28000
   }
 }
